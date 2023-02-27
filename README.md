@@ -1,7 +1,7 @@
 ### Приветствую!
 ## Я, Олег Чиликин </br>
 ### Fullstack QA Engineer
-Практикую автотестирование на 
+Практикую автоматизацию тестирования на 
 <b>Selenide + REST Assured + Java + Gradle</b> </br>
 
 <a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.png" width="50" height="50"  alt="IDEA"/></a>
