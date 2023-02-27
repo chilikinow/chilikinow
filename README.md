@@ -1,5 +1,6 @@
 ### Приветствую!
 ## Я, Олег Чиликин </br>
+### Fullstack QA Engineer
 Практикую автотестирование на 
 <b>Selenide + REST Assured + Java + Gradle</b> </br>
 
