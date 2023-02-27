@@ -14,12 +14,11 @@
 <a href="https://www.jenkins.io/"><img src="/icons/Jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
 
 
-<a href="https://t.me/glazmaikh"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
-[@glazmaikh](https://t.me/glazmaikh) </br>
+<a href="https://t.me/chilikinow"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
+[@chilikinow](https://t.me/glazmaikh) </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilikinow)](https://github.com/anuraghazra/github-readme-stats) </br>
-<a href="https://t.me/glazmaikh"><img src="/icons/hh.png" width="50" height="50"  alt="Telegram"/></a>
-Имею 8 лет опыта [ручного тестировщика](https://hh.ru/resume/aa097941ff081202d00039ed1f55656c344377)
+<a href="https://t.me/chilikinow"><img src="/icons/hh.png" width="50" height="50"  alt="Telegram"/></a>
 
 
 
