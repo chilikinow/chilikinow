@@ -17,7 +17,7 @@
 <a href="https://t.me/chilikinow"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 [@chilikinow](https://t.me/glazmaikh) </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilikinow&show_icons=true&theme=merko) </br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilikinow&show_icons=true&theme=tokyonight) </br>
 
 <!--
 **chilikinow/chilikinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
