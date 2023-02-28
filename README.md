@@ -1,5 +1,5 @@
 ### Приветствую!
-## Я, Олег Чиликин </br>
+## Я, Олег Чиликин [@chilikinow](https://t.me/glazmaikh) </br>
 ### Fullstack QA Engineer
 Практикую автоматизацию тестирования на 
 <b>Selenide + REST Assured + Java + Gradle</b> </br>
@@ -17,9 +17,9 @@
 <a href="https://www.docker.com/"><img src="/icons/docker.svg" width="50" height="50"  alt="docker"/></a>
 <a href="https://t.me/chilikinow"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilikinow&show_icons=true&theme=tokyonight) </br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilikinow&show_icons=true&theme=tokyonight)
 
-[@chilikinow](https://t.me/glazmaikh) </br>
+
 
 <!--
 **chilikinow/chilikinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
