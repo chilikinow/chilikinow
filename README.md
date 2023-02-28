@@ -1,6 +1,6 @@
 ### Приветствую!
 ## Я, Олег Чиликин
-### [@chilikinow](https://t.me/glazmaikh) </br>
+## [@chilikinow](https://t.me/glazmaikh) </br>
 ### Fullstack QA Engineer
 Практикую автоматизацию тестирования на 
 <b>Selenide + REST Assured + Java + Gradle</b> </br>
