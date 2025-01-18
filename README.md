@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Приветствую!&fontAlignY=32&fontAlign=25&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 
-## Fullstack / Automation QA
+## Fullstack QA / Automation QA
 
 - 🌱 **AQA Java**
 - 🔭 Fullstack QA c 2021
