@@ -40,7 +40,7 @@
 * Продвигал идею обмена опытом и публикации лучших практик Коллегам, с использованием данной группы, что позволило привлечь людей, желающих поделится опытом, но ранее не имеющих площадки для этого.
 
 ## Навыки
-Java, JUnit, JUnit5 Extensions, Selenide, Retrofit, Rest assured, JDBC, Spring JDBC, Hibernate, PostgreSQL, Allure Report, Jenkins, Gradle, Docker, Kibana, Confluence, JIRA, SCRAM
+Java, JUnit, JUnit5 Extensions, Selenide, Retrofit, Rest assured, JDBC, Spring JDBC, Hibernate, PostgreSQL, Allure Report, Jenkins, Gradle, Docker, Kibana, Confluence, JIRA, SCRUM
 <!--
 **chilikinow/chilikinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
