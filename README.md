@@ -1,6 +1,17 @@
-### Приветствую!
-## Я, Олег Чиликин
-### Fullstack QA Engineer 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Приветствую!&fontAlignY=32&fontAlign=25&fontSize=52&animation=twinkling&fontColor=EAF5D2)
+
+### Приветствую, я Fullstack / Automation QA, Олег 👋
+
+- 🌱 **AQA Java**
+- 🔭 Fullstack QA c 2021
+- 📫 Контакты:
+
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/oleg-chilikin-524804a5/"><img src="/icons/LinkedIn_logo.png" width="50" height="50"  alt="Write me LinkedIn" title="LinkedIn"/></a>
+    <a href="https://t.me/chilikinow"><img src="/icons/Telegram.png" width="50" height="50" alt="Write me Telegram" title="Telegram"/></a>
+    <a href="mailto:chilikinow@gmail.com"><img src="icons/gmail.png" width="50" height="50" alt="Write me Email" title="Gmail" /></a>
+</p>
 
 </br>
 <a href="https://www.java.com/"><img src="/icons/Java.png" width="50" height="50"  alt="Java"/></a>
@@ -16,11 +27,6 @@
 <a href="https://gradle.org/"><img src="/icons/Gradle.png" width="50" height="50"  alt="Gradle"/></a>
 <a href="https://www.docker.com/"><img src="/icons/docker.svg" width="50" height="50"  alt="Docker"/></a>
 <a href="https://www.postgresql.org/"><img src="/icons/Postgresql.png" width="50" height="50"  alt="Postgresql"/></a>
-</br>
-
-</br>
-<a href="https://www.linkedin.com/in/oleg-chilikin-524804a5/"><img src="/icons/LinkedIn_logo.png" width="50" height="50"  alt="LinkedIn"/></a>
-<a href="https://t.me/chilikinow"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 </br>
 <!--
 **chilikinow/chilikinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
