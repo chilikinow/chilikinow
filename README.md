@@ -16,7 +16,7 @@
 </br>
 <a href="https://www.java.com/"><img src="/icons/Java.png" width="50" height="50"  alt="Java"/></a>
 <a href="https://junit.org/junit5/"><img src="/icons/JUnit5.png" width="50" height="50"  alt="JUnit 5"/></a>
-<a href="https://hibernate.org/"><img src="/icons/hibernate.png" width="50" height="50"  alt="Hibernate"/></a>
+<a href="https://hibernate.org/"><img src="/icons/hibernate.svg" width="50" height="50"  alt="Hibernate"/></a>
 <a href="https://spring.io/projects/spring-data-jdbc"><img src="/icons/spring_jdbc.png" width="150" height="50"  alt="Spring JDBC"/></a>
 <a href="https://github.com/square/retrofit"><img src="/icons/retrofit.png" width="50" height="50"  alt="Retrofit"/></a>
 <a href="https://rest-assured.io/"><img src="/icons/RestAssured.svg" width="50" height="50"  alt="Rest Assured"/></a>
